@@ -1,40 +1,43 @@
 body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    color: black;
+    color: #777;
     background-color: #777;
     width: 960px;
     font-size: 18px;
     text-align: center;
-    border: 1px solid black;  
-    
 }
 
-.lightgray {
+header, nav, section, aside, footer {
     background-color: #ebebeb;
-}
-
-.long {
-    background-color: #ebebeb;
-
     padding: 10px;
     margin: 10px;
+}
 
-
-
-    border: 1px solid black;  
+.smallbox {
+    color: #777;
+    background-color: #ebebeb;
+    padding: 10px;
+    margin: 10px;
 }
 
 section {
-
-float: left;
+    float: left;
     width: 495px;
+}
 
+article {
+    background-color: #777;
+    color: #ebebeb;
+    padding: 10px;
+    margin: 10px;
 }
 
 aside {
-
     float: right;
     width: 40%;
+    height: 249px;
+}
 
-
+footer {
+    clear: both;
 }
