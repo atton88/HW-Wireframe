@@ -10,12 +10,12 @@ Wireframe of website created using elements, boxes, padding, margins, and other 
 <!-- [What the user will see](the link to the deployed site) -->
 [GitHub Repository](https://github.com/atton88/HW-Wireframe)
 
-[Webite](https://atton88.github.io/HW-Wireframe/)
+[Website](https://atton88.github.io/HW-Wireframe/)
 
 # Images
 <!-- take a picture of the image and add it into the readme  -->
 <!-- ![image title](path or link to image) -->
-![Screenshot](screen.png)
+![Screenshot](screen.PNG)
 
 # Technology Used
 <!-- make a list of technology used -->
